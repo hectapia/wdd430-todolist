@@ -6,3 +6,4 @@ W01 Assignment: React Introduction Project.
 
 - Task: Work through a [React project tutorial](https://www.youtube.com/watch?v=Rh3tobg7hEo)
 
+Step-by-step tracking from Web Dev Simplified
